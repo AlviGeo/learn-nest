@@ -1,0 +1,21 @@
+Learning Resource link = 
+https://www.youtube.com/watch?v=GlDhBAR1VTg&list=PL9At9z2rvOC8phs2qV4Fysy8cejzg6pU0&index=1
+
+Feature include:
+- Platform Adapter
+- Basic Controller
+- Routing
+- Response Object
+- Option Walkthrough
+- Request Object
+- Resource Controller
+- Header & Redirect
+- Route Parameter
+- DTO (Data Transfer Object)
+- Validation Page
+- Filter
+- HTTP Put
+- HTTP Delete
+- Providers
+- Modules
+- Prisma ORM 
