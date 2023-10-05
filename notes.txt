@@ -19,3 +19,5 @@ Feature include:
 - Providers
 - Modules
 - Prisma ORM 
+
+how to init prisma:
